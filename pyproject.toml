@@ -2,7 +2,7 @@
 name = "stock-streamer-api"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Mohammad Ali<m.aliadnanrauf@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
